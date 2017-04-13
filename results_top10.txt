@@ -1,0 +1,612 @@
+====================================================================
+Top 10 programming jobs in AL:
+1043 go jobs
+955 c jobs
+955 c++ jobs
+442 SQL jobs
+369 .net jobs
+332 r jobs
+304 java jobs
+208 python jobs
+204 matlab jobs
+184 javascript jobs
+====================================================================
+Top 10 programming jobs in AK:
+311 go jobs
+219 c jobs
+219 c++ jobs
+98 r jobs
+64 .net jobs
+51 SQL jobs
+16 css jobs
+16 c# jobs
+15 python jobs
+15 javascript jobs
+====================================================================
+Top 10 programming jobs in AZ:
+2487 go jobs
+1915 c jobs
+1915 c++ jobs
+1380 SQL jobs
+1012 r jobs
+978 .net jobs
+767 java jobs
+630 javascript jobs
+448 python jobs
+422 css jobs
+====================================================================
+Top 10 programming jobs in AR:
+753 go jobs
+495 c jobs
+495 c++ jobs
+276 .net jobs
+202 SQL jobs
+184 r jobs
+89 java jobs
+66 javascript jobs
+45 python jobs
+37 css jobs
+====================================================================
+Top 10 programming jobs in CA:
+17446 c jobs
+17446 c++ jobs
+16751 go jobs
+11609 SQL jobs
+10677 java jobs
+10400 python jobs
+7942 javascript jobs
+6267 .net jobs
+5528 r jobs
+5081 css jobs
+====================================================================
+Top 10 programming jobs in CO:
+3035 go jobs
+2297 c jobs
+2297 c++ jobs
+1807 SQL jobs
+1373 .net jobs
+1271 java jobs
+1025 javascript jobs
+928 python jobs
+882 r jobs
+635 css jobs
+====================================================================
+Top 10 programming jobs in CT:
+1265 go jobs
+1054 c jobs
+1054 c++ jobs
+923 SQL jobs
+619 .net jobs
+512 r jobs
+499 java jobs
+376 javascript jobs
+344 python jobs
+272 css jobs
+====================================================================
+Top 10 programming jobs in DC:
+6471 SQL jobs
+5913 java jobs
+5262 c jobs
+5262 c++ jobs
+4201 go jobs
+4167 javascript jobs
+3938 python jobs
+3158 .net jobs
+2556 css jobs
+2556 c# jobs
+====================================================================
+Top 10 programming jobs in DE:
+411 go jobs
+376 SQL jobs
+304 c jobs
+304 c++ jobs
+215 java jobs
+142 r jobs
+135 .net jobs
+101 javascript jobs
+89 python jobs
+82 shell jobs
+====================================================================
+Top 10 programming jobs in FL:
+5846 go jobs
+4783 c jobs
+4783 c++ jobs
+3457 SQL jobs
+2298 .net jobs
+1991 r jobs
+1654 java jobs
+1521 javascript jobs
+1059 css jobs
+1059 c# jobs
+====================================================================
+Top 10 programming jobs in GA:
+3525 go jobs
+3174 c jobs
+3174 c++ jobs
+2740 SQL jobs
+1712 java jobs
+1659 .net jobs
+1280 javascript jobs
+1168 r jobs
+871 css jobs
+871 c# jobs
+====================================================================
+Top 10 programming jobs in HI:
+491 go jobs
+438 c jobs
+438 c++ jobs
+128 .net jobs
+127 r jobs
+104 SQL jobs
+41 css jobs
+41 c# jobs
+38 javascript jobs
+33 java jobs
+====================================================================
+Top 10 programming jobs in ID:
+631 go jobs
+321 c jobs
+321 c++ jobs
+179 r jobs
+158 SQL jobs
+119 .net jobs
+71 python jobs
+65 java jobs
+49 javascript jobs
+46 perl jobs
+====================================================================
+Top 10 programming jobs in IL:
+4992 go jobs
+4054 c jobs
+4054 c++ jobs
+3986 SQL jobs
+2407 .net jobs
+2295 java jobs
+1942 javascript jobs
+1844 r jobs
+1607 python jobs
+1334 css jobs
+====================================================================
+Top 10 programming jobs in IN:
+2157 go jobs
+1426 c jobs
+1426 c++ jobs
+750 r jobs
+686 SQL jobs
+640 .net jobs
+336 javascript jobs
+327 java jobs
+238 css jobs
+238 c# jobs
+====================================================================
+Top 10 programming jobs in IA:
+1132 go jobs
+875 c jobs
+874 c++ jobs
+393 SQL jobs
+369 .net jobs
+330 r jobs
+204 java jobs
+157 javascript jobs
+114 python jobs
+91 css jobs
+====================================================================
+Top 10 programming jobs in KS:
+1189 go jobs
+718 c++ jobs
+717 c jobs
+432 SQL jobs
+356 r jobs
+336 .net jobs
+170 javascript jobs
+132 css jobs
+132 c# jobs
+131 java jobs
+====================================================================
+Top 10 programming jobs in KY:
+1153 go jobs
+750 c jobs
+750 c++ jobs
+387 SQL jobs
+360 .net jobs
+347 r jobs
+143 java jobs
+134 javascript jobs
+99 css jobs
+99 c# jobs
+====================================================================
+Top 10 programming jobs in LA:
+1104 go jobs
+892 c jobs
+892 c++ jobs
+317 r jobs
+239 .net jobs
+224 SQL jobs
+112 java jobs
+91 javascript jobs
+75 css jobs
+75 c# jobs
+====================================================================
+Top 10 programming jobs in ME:
+424 go jobs
+354 c jobs
+354 c++ jobs
+111 SQL jobs
+100 r jobs
+84 .net jobs
+65 java jobs
+49 javascript jobs
+23 css jobs
+23 shell jobs
+====================================================================
+Top 10 programming jobs in MD:
+3474 c jobs
+3474 c++ jobs
+2452 SQL jobs
+2405 java jobs
+2229 go jobs
+1630 python jobs
+1524 javascript jobs
+1428 .net jobs
+994 css jobs
+994 c# jobs
+====================================================================
+Top 10 programming jobs in MA:
+4274 c jobs
+4274 c++ jobs
+3930 go jobs
+3475 SQL jobs
+2549 java jobs
+2235 .net jobs
+2214 python jobs
+2064 javascript jobs
+2047 r jobs
+1241 css jobs
+====================================================================
+Top 10 programming jobs in MI:
+3847 go jobs
+2881 c jobs
+2881 c++ jobs
+1523 SQL jobs
+1143 .net jobs
+997 java jobs
+964 r jobs
+603 javascript jobs
+512 matlab jobs
+443 css jobs
+====================================================================
+Top 10 programming jobs in MN:
+3119 go jobs
+1697 c jobs
+1697 c++ jobs
+1523 SQL jobs
+995 java jobs
+942 .net jobs
+747 javascript jobs
+688 r jobs
+549 css jobs
+549 c# jobs
+====================================================================
+Top 10 programming jobs in MS:
+408 go jobs
+338 c jobs
+338 c++ jobs
+136 .net jobs
+125 r jobs
+92 SQL jobs
+43 javascript jobs
+37 java jobs
+34 css jobs
+34 c# jobs
+====================================================================
+Top 10 programming jobs in MO:
+2465 go jobs
+1503 c jobs
+1495 c++ jobs
+1218 SQL jobs
+1109 .net jobs
+756 r jobs
+644 java jobs
+494 javascript jobs
+343 css jobs
+343 c# jobs
+====================================================================
+Top 10 programming jobs in MT:
+355 go jobs
+192 c jobs
+192 c++ jobs
+77 .net jobs
+69 r jobs
+45 SQL jobs
+27 css jobs
+27 c# jobs
+23 java jobs
+23 javascript jobs
+====================================================================
+Top 10 programming jobs in NE:
+729 go jobs
+525 c jobs
+525 c++ jobs
+279 SQL jobs
+230 .net jobs
+177 java jobs
+151 javascript jobs
+148 r jobs
+114 css jobs
+114 c# jobs
+====================================================================
+Top 10 programming jobs in NV:
+1061 go jobs
+647 c jobs
+647 c++ jobs
+310 SQL jobs
+287 r jobs
+254 .net jobs
+129 javascript jobs
+105 java jobs
+96 css jobs
+96 c# jobs
+====================================================================
+Top 10 programming jobs in NH:
+570 go jobs
+406 c jobs
+406 c++ jobs
+216 r jobs
+184 SQL jobs
+166 .net jobs
+109 java jobs
+104 javascript jobs
+75 python jobs
+72 css jobs
+====================================================================
+Top 10 programming jobs in NJ:
+2980 go jobs
+2880 SQL jobs
+2233 c jobs
+2233 c++ jobs
+2078 java jobs
+1565 .net jobs
+1288 javascript jobs
+1287 r jobs
+1070 python jobs
+859 css jobs
+====================================================================
+Top 10 programming jobs in NM:
+539 go jobs
+482 c jobs
+482 c++ jobs
+177 r jobs
+113 SQL jobs
+107 python jobs
+97 java jobs
+96 .net jobs
+80 matlab jobs
+66 javascript jobs
+====================================================================
+Top 10 programming jobs in NY:
+8375 go jobs
+6424 SQL jobs
+6030 c++ jobs
+6028 c jobs
+4295 java jobs
+3708 javascript jobs
+3651 python jobs
+3152 r jobs
+3145 .net jobs
+2519 css jobs
+====================================================================
+Top 10 programming jobs in NC:
+3179 go jobs
+2626 c jobs
+2626 c++ jobs
+2455 SQL jobs
+1537 java jobs
+1434 .net jobs
+1114 javascript jobs
+1059 r jobs
+796 python jobs
+760 css jobs
+====================================================================
+Top 10 programming jobs in ND:
+347 go jobs
+185 c jobs
+185 c++ jobs
+81 r jobs
+60 .net jobs
+42 SQL jobs
+22 java jobs
+19 javascript jobs
+15 css jobs
+15 c# jobs
+====================================================================
+Top 10 programming jobs in OH:
+3930 go jobs
+2435 c jobs
+2435 c++ jobs
+2212 SQL jobs
+1576 .net jobs
+1220 r jobs
+1177 java jobs
+958 javascript jobs
+683 css jobs
+683 c# jobs
+====================================================================
+Top 10 programming jobs in OK:
+1034 go jobs
+610 c jobs
+610 c++ jobs
+311 r jobs
+289 SQL jobs
+271 .net jobs
+121 java jobs
+99 javascript jobs
+85 css jobs
+85 c# jobs
+====================================================================
+Top 10 programming jobs in OR:
+1992 go jobs
+1463 c jobs
+1463 c++ jobs
+787 SQL jobs
+588 .net jobs
+537 r jobs
+528 java jobs
+489 python jobs
+473 javascript jobs
+313 css jobs
+====================================================================
+Top 10 programming jobs in PA:
+4017 go jobs
+3733 c jobs
+3733 c++ jobs
+3031 SQL jobs
+2043 .net jobs
+1620 r jobs
+1618 java jobs
+1495 javascript jobs
+960 css jobs
+960 c# jobs
+====================================================================
+Top 10 programming jobs in RI:
+427 go jobs
+253 c jobs
+253 c++ jobs
+193 SQL jobs
+150 r jobs
+128 .net jobs
+117 java jobs
+88 javascript jobs
+64 css jobs
+64 c# jobs
+====================================================================
+Top 10 programming jobs in SC:
+1373 go jobs
+1219 c jobs
+1219 c++ jobs
+538 SQL jobs
+415 .net jobs
+347 r jobs
+206 java jobs
+180 javascript jobs
+162 css jobs
+162 c# jobs
+====================================================================
+Top 10 programming jobs in SD:
+310 go jobs
+168 c jobs
+168 c++ jobs
+64 r jobs
+57 .net jobs
+56 SQL jobs
+26 java jobs
+21 javascript jobs
+18 python jobs
+12 ruby jobs
+====================================================================
+Top 10 programming jobs in TN:
+2214 go jobs
+1404 c jobs
+1404 c++ jobs
+983 SQL jobs
+763 .net jobs
+591 r jobs
+423 javascript jobs
+368 java jobs
+281 css jobs
+281 c# jobs
+====================================================================
+Top 10 programming jobs in TX:
+8180 go jobs
+7657 c jobs
+7657 c++ jobs
+5666 SQL jobs
+3808 .net jobs
+3598 java jobs
+2792 r jobs
+2727 javascript jobs
+2126 python jobs
+1817 css jobs
+====================================================================
+Top 10 programming jobs in UT:
+1245 go jobs
+866 c jobs
+866 c++ jobs
+742 SQL jobs
+480 javascript jobs
+449 .net jobs
+442 java jobs
+389 css jobs
+389 c# jobs
+378 r jobs
+====================================================================
+Top 10 programming jobs in VT:
+265 go jobs
+146 c jobs
+146 c++ jobs
+68 r jobs
+54 .net jobs
+51 SQL jobs
+45 javascript jobs
+40 css jobs
+40 c# jobs
+25 java jobs
+====================================================================
+Top 10 programming jobs in VA:
+4669 SQL jobs
+3824 java jobs
+3782 c jobs
+3782 c++ jobs
+3496 go jobs
+2748 javascript jobs
+2475 .net jobs
+2409 python jobs
+1664 css jobs
+1664 c# jobs
+====================================================================
+Top 10 programming jobs in WA:
+3978 go jobs
+3593 c jobs
+3593 c++ jobs
+3341 SQL jobs
+3094 java jobs
+2105 python jobs
+1769 javascript jobs
+1552 .net jobs
+1241 r jobs
+1151 css jobs
+====================================================================
+Top 10 programming jobs in WV:
+393 go jobs
+332 c jobs
+332 c++ jobs
+142 r jobs
+76 SQL jobs
+74 .net jobs
+60 java jobs
+45 javascript jobs
+36 python jobs
+29 ruby jobs
+====================================================================
+Top 10 programming jobs in WI:
+2269 go jobs
+1610 c jobs
+1610 c++ jobs
+836 .net jobs
+767 SQL jobs
+641 r jobs
+358 javascript jobs
+335 java jobs
+255 css jobs
+255 c# jobs
+====================================================================
+Top 10 programming jobs in WY:
+209 go jobs
+131 c jobs
+131 c++ jobs
+47 r jobs
+27 .net jobs
+13 SQL jobs
+12 ruby jobs
+6 shell jobs
+5 python jobs
+4 perl jobs
